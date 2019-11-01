@@ -1,3 +1,5 @@
+日本語のreadmeは[こちら](README_ja.md)になります
+
 # soundrop_OtogibaraEra
 
 >**HolySh\*t!!!!!!!!!!!**  
