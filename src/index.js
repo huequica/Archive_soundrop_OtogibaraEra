@@ -1,6 +1,7 @@
 import 'react-hot-loader/patch';
 import React from 'react';
 import ReactDOM from 'react-dom';
+import './index.scss'
 
 window.onload = () => {
   // eslint-disable-next-line no-unused-vars
