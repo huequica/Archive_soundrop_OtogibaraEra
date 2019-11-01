@@ -1,0 +1,23 @@
+{
+  "name": "soundrop_gibara",
+  "version": "1.0.0",
+  "description": "世界で最高の罵声をいつでも",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev:server": "npx parcel src/index.html --open"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "bulma": "^0.8.0",
+    "parcel": "^1.12.4",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0"
+  },
+  "devDependencies": {
+    "babel-preset-react-app": "^9.0.2",
+    "eslint": "^6.6.0",
+    "eslint-plugin-react": "^7.16.0"
+  }
+}
