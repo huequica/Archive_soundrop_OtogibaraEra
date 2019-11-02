@@ -7,8 +7,8 @@ export function Background() {
      url='https://www.youtube.com/watch?v=YAwoRybL1t0'
      width='100vw'
      height='100vh'
-     playing='true'
-     controls='true'
+     playing={true}
+     controls={false}
     />
   );
 }
