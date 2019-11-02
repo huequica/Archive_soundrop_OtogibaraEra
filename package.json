@@ -13,7 +13,8 @@
     "bulma": "^0.8.0",
     "parcel": "^1.12.4",
     "react": "^16.11.0",
-    "react-dom": "^16.11.0"
+    "react-dom": "^16.11.0",
+    "react-player": "^1.13.0"
   },
   "devDependencies": {
     "@babel/core": "^7.6.4",
@@ -22,6 +23,7 @@
     "eslint-plugin-react": "^7.16.0",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
-    "react-hot-loader": "^4.12.15"
+    "react-hot-loader": "^4.12.15",
+    "sass": "^1.23.3"
   }
 }

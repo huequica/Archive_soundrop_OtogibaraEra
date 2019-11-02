@@ -1,0 +1,9 @@
+@import "~bulma/bulma";
+
+html {
+  body {
+    div#background{
+      pointer-events: none;
+    }
+  }
+}
